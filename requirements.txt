@@ -7,5 +7,3 @@ seaborn
 scikit-learn
 mlxtend
 plotly
-requests
-beautifulsoup4
